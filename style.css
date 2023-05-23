@@ -1,0 +1,170 @@
+.caja1{
+width: 100%;
+height: 600px;
+background-color: rgb(8, 11, 27);
+
+}
+
+
+.img{
+
+width: 400px;
+height: 400px;
+background-color:rgba(245, 10, 225, 0.514);
+border-style: solid;
+border-color: aqua;
+border-radius: 10%;
+background-image: url(./Img/brick-walls-neon-light-background-rays-glow-211376300.jpg);
+}
+
+h1{
+
+    font-family: 'Montserrat', sans-serif; 
+   color: rgb(255, 255, 255)!important;
+   font-weight: bolder !important;
+}
+
+
+
+  .navbar{
+
+    background-color: aqua;
+  }
+
+  .aqua{
+
+color:aqua
+
+
+  }
+
+  .morado{
+
+    color:rgb(218, 40, 235)!important;
+  }
+
+  .logogit{
+
+width: 50px;
+height: 50px;
+
+  }
+
+  .gituser{
+
+
+    display: inline;
+  }
+
+  .cajagit{
+width: 50px;
+height: 50px;
+border-radius: 50px;
+    display: inline;
+  }
+
+  .cajapro{
+
+width: 320px;
+min-height: 400px;
+background-color: azure;
+border-radius: 10px;
+
+
+
+  }
+
+  .btn{
+
+    border-radius: 20px!important;
+
+    background-color: aqua !important;
+    border-style: solid;
+    border-width: 1px !important;
+    border-color: rgba(255, 255, 255, 0.993)!important;
+    
+  }
+
+ .colorf{
+
+    background-color: rgb(8, 11, 27);
+ }
+
+  .card-text{
+
+color:azure;
+
+  }
+
+  .card:hover{
+
+
+border-width: 2px;
+border-color: aqua;
+
+  }
+
+  .btn:hover{
+
+
+    background-color:deeppink!important;
+    color:aliceblue !important;
+  }
+
+  .cajahabi{
+
+  
+width: 120px;
+height: 120px;
+/*background-image: url(./Img/brick-walls-neon-light-background-rays-glow-211376300.jpg);*/
+background-color: aqua;
+border-radius: 10%;
+margin-top: 10px;
+
+  }
+  .cajahabi:hover{
+
+    width: 130px;
+    height: 130px;
+    background-color:deeppink;
+
+    border-color: aqua!important;
+    border-width: 1px!important;
+    border-style: solid;
+    margin:0!important;
+
+
+
+  }
+
+  .conocimientos{
+border-radius: 10px;
+border-color: aqua!important;
+border-width: 1px!important;
+border-style: solid;
+color:rgb(255, 255, 255);
+padding: 50px!important;
+
+
+
+  }
+
+
+   .conocimientos p {
+
+font-size: 20px;
+
+
+  }
+
+  .x{
+    background-image: url(./Img/brick-walls-neon-light-background-rays-glow-211376300.jpg);
+  }
+
+  .btn1{
+    background-color: rgb(255, 255, 255)!important;
+    border-radius: 20px!important;
+border-color: aqua!important;
+border-width: 3px!important;
+border-style: solid;
+  }
